@@ -69,4 +69,4 @@ function Switch() {
   return !choice ? "You won GOLD!" : "You won a goat...";
 }
 
-guess(1);
+guess(2);
